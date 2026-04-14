@@ -1,0 +1,305 @@
+# sent_id = vacances-sud_1
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Les dernières vacances d’été, on est partis dans le sud de la France.
+# text = [RECENT] [VACANCES] [ETE] [euh] [PARTIR] [OÙ] [FRANCE] [carte-france] [SUD] [région-sud] [mains-jointes]
+1	[RECENT]	_	_	_	_	_	_	_	AlignBegin=2248|AlignEnd=2717
+2	[VACANCES]	_	_	_	_	_	_	_	AlignBegin=2723|AlignEnd=3166
+3	[ETE]	_	_	_	_	_	_	_	AlignBegin=3183|AlignEnd=4330
+4	[euh]	_	_	_	_	_	_	_	AlignBegin=4343|AlignEnd=4992
+5	[PARTIR]	_	_	_	_	_	_	_	AlignBegin=5011|AlignEnd=5706
+6	[OÙ]	_	_	_	_	_	_	_	AlignBegin=5745|AlignEnd=6867
+7	[FRANCE]	_	_	_	_	_	_	_	AlignBegin=6884|AlignEnd=7277
+8	[carte-france]	_	_	_	_	_	_	_	AlignBegin=7296|AlignEnd=8476|Md=[prfM-carte]
+9	[SUD]	_	_	_	_	_	_	_	AlignBegin=8490|AlignEnd=9205|Md=[prfM-carte]
+10	[région-sud]	_	_	_	_	_	_	_	AlignBegin=9235|AlignEnd=10548|Md=[prfM-carte]
+11	[mains-jointes]	_	_	_	_	_	_	_	AlignBegin=10574|AlignEnd=11065|Md=[prfM-carte]
+
+# sent_id = vacances-sud_2
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Dans ma famille il y a maman, papa et ma sœur, nous étions donc tous les 4.
+# text = [FAMILLE] [POSS] [MAMAN] [PAPA] [SOEUR] [TOUS-LES-nb]
+1	[FAMILLE]	_	_	_	_	_	_	_	AlignBegin=11404|AlignEnd=11812
+2	[POSS]	_	_	_	_	_	_	_	AlignBegin=11823|AlignEnd=12449
+3	[MAMAN]	_	_	_	_	_	_	_	AlignBegin=12526|AlignEnd=13341
+4	[PAPA]	_	_	_	_	_	_	_	AlignBegin=13355|AlignEnd=13875
+5	[SOEUR]	_	_	_	_	_	_	_	AlignBegin=13909|AlignEnd=14501
+6	[TOUS-LES-nb]	_	_	_	_	_	_	_	AlignBegin=14529|AlignEnd=16737
+
+# sent_id = vacances-sud_3
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = On est montés en voiture et on a roulé vers le sud pendant 8 heures. C’était long !
+# text = [VOITURE] [monter-deuxavant-deuxarrière] [avancer-VOITURE] [initinéraire-vers-sud] [PENDANT-nbH]
+1	[VOITURE]	_	_	_	_	_	_	_	AlignBegin=16816|AlignEnd=17737
+2	[monter-deuxavant-deuxarrière]	_	_	_	_	_	_	_	AlignBegin=17755|AlignEnd=18819
+3	[avancer-VOITURE]	_	_	_	_	_	_	_	AlignBegin=18843|AlignEnd=19856
+4	[initinéraire-vers-sud]	_	_	_	_	_	_	_	AlignBegin=19894|AlignEnd=21963
+5	[PENDANT-nbH]	_	_	_	_	_	_	_	AlignBegin=22005|AlignEnd=23310
+
+# sent_id = vacances-sud_4
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# text = [BEAUCOUP] ? [main-jointes] [pt] [pt] [main-jointes] [REGARDER] [LEVER-LA-MAIN]] [DIFFERENT] [PERSONNE] [MAMAN]
+1	[BEAUCOUP]	_	_	_	_	_	_	_	AlignBegin=23333|AlignEnd=24676
+2	?	_	_	_	_	_	_	_	AlignBegin=66962|AlignEnd=67165
+3	[main-jointes]	_	_	_	_	_	_	_	AlignBegin=71138|AlignEnd=71855
+4	[pt]	_	_	_	_	_	_	_	AlignBegin=91802|AlignEnd=92264
+5	[pt]	_	_	_	_	_	_	_	AlignBegin=108687|AlignEnd=109322
+6	[main-jointes]	_	_	_	_	_	_	_	AlignBegin=116074|AlignEnd=116726
+7	[REGARDER]	_	_	_	_	_	_	_	AlignBegin=116743|AlignEnd=117130
+8	[LEVER-LA-MAIN]]	_	_	_	_	_	_	_	AlignBegin=119352|AlignEnd=119626
+9	[DIFFERENT]	_	_	_	_	_	_	_	AlignBegin=128396|AlignEnd=128987
+10	[PERSONNE]	_	_	_	_	_	_	_	AlignBegin=148297|AlignEnd=148897
+11	[MAMAN]	_	_	_	_	_	_	_	AlignBegin=157083|AlignEnd=158014
+
+# sent_id = vacances-sud_5
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Arrivés là-bas, nous n’avions pas prévu de voir qu’une seule ville, nous avons visité 3 endroits différents.
+# text = [itinéraire] [pt] [UN] [VILLE] [NON] [TROIS] [ÉTAPE] [étape] [étape] [VOILA]
+1	[itinéraire]	_	_	_	_	_	_	_	AlignBegin=24745|AlignEnd=25896|Md=[itinéraire-départ]
+2	[pt]	_	_	_	_	_	_	_	AlignBegin=25896|AlignEnd=26315|Md=[itinéraire-départ]
+3	[UN]	_	_	_	_	_	_	_	AlignBegin=26356|AlignEnd=26792
+4	[VILLE]	_	_	_	_	_	_	_	AlignBegin=26810|AlignEnd=27264
+5	[NON]	_	_	_	_	_	_	_	AlignBegin=27329|AlignEnd=27755
+6	[TROIS]	_	_	_	_	_	_	_	AlignBegin=27769|AlignEnd=28125
+7	[ÉTAPE]	_	_	_	_	_	_	_	AlignBegin=28157|AlignEnd=28730|Md=[étape]
+8	[étape]	_	_	_	_	_	_	_	AlignBegin=28730|AlignEnd=29183|Md=[étape]
+9	[étape]	_	_	_	_	_	_	_	AlignBegin=29183|AlignEnd=29718|Md=[étape]
+10	[VOILA]	_	_	_	_	_	_	_	AlignBegin=29843|AlignEnd=30477
+
+# sent_id = vacances-sud_6
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Dimanche dernier, toute la famille s’est réunie pour prendre un bon repas, bavarder et échanger.
+# text = [pt] [RECENT] [DIMANCHE] [AVANT] [FAMILLE] [RÉUNIR] [MANGER] [BAVARDER] [ECHANGER]
+1	[pt]	_	_	_	_	_	_	_	AlignBegin=31435|AlignEnd=31917
+2	[RECENT]	_	_	_	_	_	_	_	AlignBegin=31954|AlignEnd=32634
+3	[DIMANCHE]	_	_	_	_	_	_	_	AlignBegin=32676|AlignEnd=32948
+4	[AVANT]	_	_	_	_	_	_	_	AlignBegin=32948|AlignEnd=33472
+5	[FAMILLE]	_	_	_	_	_	_	_	AlignBegin=33532|AlignEnd=34282
+6	[RÉUNIR]	_	_	_	_	_	_	_	AlignBegin=34338|AlignEnd=35745
+7	[MANGER]	_	_	_	_	_	_	_	AlignBegin=35787|AlignEnd=37657
+8	[BAVARDER]	_	_	_	_	_	_	_	AlignBegin=37681|AlignEnd=38449
+9	[ECHANGER]	_	_	_	_	_	_	_	AlignBegin=38468|AlignEnd=39542
+
+# sent_id = vacances-sud_7
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Maman a demandé à tout le monde : “Pendant les vacances, lequel des 3 lieux avez-vous préféré ?”
+# text = [MAMAN] [QUESTION] [APPEL] [pt] [ADORER] [VACANCES] [pt] [pt] [pt] [QUOI] [PREFERER] [QUOI]
+1	[MAMAN]	_	_	_	_	_	_	_	AlignBegin=40019|AlignEnd=40690
+2	[QUESTION]	_	_	_	_	_	_	_	AlignBegin=40718|AlignEnd=40940
+3	[APPEL]	_	_	_	_	_	_	_	AlignBegin=41009|AlignEnd=42824
+4	[pt]	_	_	_	_	_	_	_	AlignBegin=42843|AlignEnd=43389
+5	[ADORER]	_	_	_	_	_	_	_	AlignBegin=43407|AlignEnd=44222
+6	[VACANCES]	_	_	_	_	_	_	_	AlignBegin=44241|AlignEnd=45019
+7	[pt]	_	_	_	_	_	_	_	AlignBegin=45046|AlignEnd=45339|Md=[pt]
+8	[pt]	_	_	_	_	_	_	_	AlignBegin=45339|AlignEnd=45574|Md=[pt]
+9	[pt]	_	_	_	_	_	_	_	AlignBegin=45574|AlignEnd=45954|Md=[pt]
+10	[QUOI]	_	_	_	_	_	_	_	AlignBegin=45986|AlignEnd=46412
+11	[PREFERER]	_	_	_	_	_	_	_	AlignBegin=46421|AlignEnd=46917
+12	[QUOI]	_	_	_	_	_	_	_	AlignBegin=46935|AlignEnd=47648
+
+# sent_id = vacances-sud_8
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Nous avons tous réfléchi et ma sœur a répondu : “Moi, j’ai vraiment adoré le premier lieu avec la mer, la plage de sable fin, et puis ça grouillait de gens !
+# text = [TOUS] [REFLECHIR] [?] [pt] [SOEUR] [LEVER-LA-MAIN] [pt] [ADMIRER] [ADORER] [pt] [PREMIER] [pt] [POURQUOI] [pt] [LÀ] [QUOI] [MER] [PLAGE] [SABLE] [FIN] [PLAGE] [PERSONNE] [FOULE-qui-se-déplace]
+1	[TOUS]	_	_	_	_	_	_	_	AlignBegin=48019|AlignEnd=48565
+2	[REFLECHIR]	_	_	_	_	_	_	_	AlignBegin=48606|AlignEnd=49625
+3	[?]	_	_	_	_	_	_	_	AlignBegin=49639|AlignEnd=49958
+4	[pt]	_	_	_	_	_	_	_	AlignBegin=49968|AlignEnd=50194
+5	[SOEUR]	_	_	_	_	_	_	_	AlignBegin=50213|AlignEnd=51120
+6	[LEVER-LA-MAIN]	_	_	_	_	_	_	_	AlignBegin=51153|AlignEnd=51532
+7	[pt]	_	_	_	_	_	_	_	AlignBegin=51542|AlignEnd=51931
+8	[ADMIRER]	_	_	_	_	_	_	_	AlignBegin=51954|AlignEnd=52741
+9	[ADORER]	_	_	_	_	_	_	_	AlignBegin=52759|AlignEnd=53685
+10	[pt]	_	_	_	_	_	_	_	AlignBegin=53694|AlignEnd=54269|Md=[pt]
+11	[PREMIER]	_	_	_	_	_	_	_	AlignBegin=54296|AlignEnd=54597|Md=[pt]
+12	[pt]	_	_	_	_	_	_	_	AlignBegin=54616|AlignEnd=55431|Md=[pt]
+13	[POURQUOI]	_	_	_	_	_	_	_	AlignBegin=55769|AlignEnd=56648|Md=[pt]
+14	[pt]	_	_	_	_	_	_	_	AlignBegin=56694|AlignEnd=57898|Md=[pt]
+15	[LÀ]	_	_	_	_	_	_	_	AlignBegin=57931|AlignEnd=58190|Md=[pt]
+16	[QUOI]	_	_	_	_	_	_	_	AlignBegin=58213|AlignEnd=58852
+17	[MER]	_	_	_	_	_	_	_	AlignBegin=58870|AlignEnd=59935
+18	[PLAGE]	_	_	_	_	_	_	_	AlignBegin=59977|AlignEnd=60991
+19	[SABLE]	_	_	_	_	_	_	_	AlignBegin=61023|AlignEnd=61912
+20	[FIN]	_	_	_	_	_	_	_	AlignBegin=61949|AlignEnd=62815
+21	[PLAGE]	_	_	_	_	_	_	_	AlignBegin=62835|AlignEnd=63304
+22	[PERSONNE]	_	_	_	_	_	_	_	AlignBegin=63316|AlignEnd=63899
+23	[FOULE-qui-se-déplace]	_	_	_	_	_	_	_	AlignBegin=63987|AlignEnd=66937
+
+# sent_id = vacances-sud_9
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Et les palmiers disposés ici et là,
+# text = [FEUILLE] ébauche [arbre] [FEUILLE] [prfM-ARBRE]
+1	[FEUILLE] ébauche	_	_	_	_	_	_	_	AlignBegin=67228|AlignEnd=67452
+2	[arbre]	_	_	_	_	_	_	_	AlignBegin=67452|AlignEnd=68367
+3	[FEUILLE]	_	_	_	_	_	_	_	AlignBegin=68392|AlignEnd=69582
+4	[prfM-ARBRE]	_	_	_	_	_	_	_	AlignBegin=69595|AlignEnd=71138
+
+# sent_id = vacances-sud_10
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = et aussi, près de la mer, le port avec le voilier de luxe
+# text = [AUSSI] [pt] [MER] [pt-surface] [PORT/BATEAUX] [VOILE] [LUXE] [prfM-BATEAU] [pt] [IMPRESSIONNANT]
+1	[AUSSI]	_	_	_	_	_	_	_	AlignBegin=71861|AlignEnd=72152
+2	[pt]	_	_	_	_	_	_	_	AlignBegin=72190|AlignEnd=72722
+3	[MER]	_	_	_	_	_	_	_	AlignBegin=72772|AlignEnd=73810|Md=[MER]
+4	[pt-surface]	_	_	_	_	_	_	_	AlignBegin=73823|AlignEnd=75342|Md=[MER]
+5	[PORT/BATEAUX]	_	_	_	_	_	_	_	AlignBegin=75354|AlignEnd=77127
+6	[VOILE]	_	_	_	_	_	_	_	AlignBegin=77152|AlignEnd=77987
+7	[LUXE]	_	_	_	_	_	_	_	AlignBegin=78076|AlignEnd=78975
+8	[prfM-BATEAU]	_	_	_	_	_	_	_	AlignBegin=79025|AlignEnd=80101|Md=[prfM-BATEAU]
+9	[pt]	_	_	_	_	_	_	_	AlignBegin=80114|AlignEnd=81063|Md=[prfM-BATEAU]
+10	[IMPRESSIONNANT]	_	_	_	_	_	_	_	AlignBegin=81127|AlignEnd=81759|Md=[prfM-BATEAU]
+
+# sent_id = vacances-sud_11
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = et tous les promeneurs qui se baladaient là,
+# text = [PERSONNE] [PROMENER] [FOULE]
+1	[PERSONNE]	_	_	_	_	_	_	_	AlignBegin=82304|AlignEnd=82861
+2	[PROMENER]	_	_	_	_	_	_	_	AlignBegin=82886|AlignEnd=83278
+3	[FOULE]	_	_	_	_	_	_	_	AlignBegin=83329|AlignEnd=85937
+
+# sent_id = vacances-sud_12
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = c’était très agréable !”.
+# text = [pt-surface] [AGREABLE]
+1	[pt-surface]	_	_	_	_	_	_	_	AlignBegin=86063|AlignEnd=86924
+2	[AGREABLE]	_	_	_	_	_	_	_	AlignBegin=87013|AlignEnd=88114
+
+# sent_id = vacances-sud_13
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Nous écoutions ma soeur
+# text = [écouter-en-regardant] [pt] [SOEUR] pt [C'EST-CA] [INTERESSE]
+1	[écouter-en-regardant]	_	_	_	_	_	_	_	AlignBegin=88544|AlignEnd=89139
+2	[pt]	_	_	_	_	_	_	_	AlignBegin=89152|AlignEnd=89481
+3	[SOEUR]	_	_	_	_	_	_	_	AlignBegin=89506|AlignEnd=89937
+4	pt	_	_	_	_	_	_	_	AlignBegin=89967|AlignEnd=90191
+5	[C'EST-CA]	_	_	_	_	_	_	_	AlignBegin=90198|AlignEnd=90641
+6	[INTERESSE]	_	_	_	_	_	_	_	AlignBegin=90663|AlignEnd=91787
+
+# sent_id = vacances-sud_14
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = quand papa a pris la parole : “Moi, ce n’est pas le premier mais le deuxième lieu que j’ai adoré, dans les terres, la forêt avec la petite rivière sinueuse et surtout très peu de monde.
+# text = [PAPA] [NON] [pt] [ADORER] [pt] [PREMIER] [VILLE] [NON] [itinéraire] [pt] [DEUXIEME] [pt] [QUOI] [MER] [NON] [AVANT] [pt-surface] [FORÊT] [pt] [RIVIERE] [PERSONNE] [PEU] [prfM-PERSONNE]
+1	[PAPA]	_	_	_	_	_	_	_	AlignBegin=92346|AlignEnd=92868
+2	[NON]	_	_	_	_	_	_	_	AlignBegin=92904|AlignEnd=93618
+3	[pt]	_	_	_	_	_	_	_	AlignBegin=93669|AlignEnd=94029
+4	[ADORER]	_	_	_	_	_	_	_	AlignBegin=94110|AlignEnd=94853
+5	[pt]	_	_	_	_	_	_	_	AlignBegin=94868|AlignEnd=95109|Md=[pt]
+6	[PREMIER]	_	_	_	_	_	_	_	AlignBegin=95109|AlignEnd=95529|Md=[pt]
+7	[VILLE]	_	_	_	_	_	_	_	AlignBegin=95544|AlignEnd=95765|Md=[pt]
+8	[NON]	_	_	_	_	_	_	_	AlignBegin=95779|AlignEnd=96059|Md=[pt]
+9	[itinéraire]	_	_	_	_	_	_	_	AlignBegin=96088|AlignEnd=96426|Md=[pt]
+10	[pt]	_	_	_	_	_	_	_	AlignBegin=96426|AlignEnd=96728|Md=[pt]
+11	[DEUXIEME]	_	_	_	_	_	_	_	AlignBegin=96765|AlignEnd=97154
+12	[pt]	_	_	_	_	_	_	_	AlignBegin=97161|AlignEnd=97791|Md=[pt]
+13	[QUOI]	_	_	_	_	_	_	_	AlignBegin=97791|AlignEnd=98926|Md=[pt]
+14	[MER]	_	_	_	_	_	_	_	AlignBegin=98926|AlignEnd=99826|Md=[MER]
+15	[NON]	_	_	_	_	_	_	_	AlignBegin=99826|AlignEnd=100096|Md=[MER]
+16	[AVANT]	_	_	_	_	_	_	_	AlignBegin=100100|AlignEnd=100513|Md=[MER],[AVANT]
+17	[pt-surface]	_	_	_	_	_	_	_	AlignBegin=100522|AlignEnd=101504|Md=[AVANT]
+18	[FORÊT]	_	_	_	_	_	_	_	AlignBegin=101509|AlignEnd=103165|Md=[AVANT]
+19	[pt]	_	_	_	_	_	_	_	AlignBegin=103174|AlignEnd=103439
+20	[RIVIERE]	_	_	_	_	_	_	_	AlignBegin=103448|AlignEnd=105461
+21	[PERSONNE]	_	_	_	_	_	_	_	AlignBegin=105470|AlignEnd=105978
+22	[PEU]	_	_	_	_	_	_	_	AlignBegin=105991|AlignEnd=106787
+23	[prfM-PERSONNE]	_	_	_	_	_	_	_	AlignBegin=106791|AlignEnd=108683
+
+# sent_id = vacances-sud_15
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Nager dans la rivière, qu’est-ce que c’était agréable, l’eau était froide mais on profitait du calme, de la nature…”.
+# text = [NAGER] [AGREABLE] [EAU] [FROID] [CALME] [NATURE] [pt-surface]
+1	[NAGER]	_	_	_	_	_	_	_	AlignBegin=109352|AlignEnd=111017
+2	[AGREABLE]	_	_	_	_	_	_	_	AlignBegin=111017|AlignEnd=111722
+3	[EAU]	_	_	_	_	_	_	_	AlignBegin=111722|AlignEnd=111857
+4	[FROID]	_	_	_	_	_	_	_	AlignBegin=111857|AlignEnd=113357
+5	[CALME]	_	_	_	_	_	_	_	AlignBegin=113357|AlignEnd=114574
+6	[NATURE]	_	_	_	_	_	_	_	AlignBegin=114578|AlignEnd=115078
+7	[pt-surface]	_	_	_	_	_	_	_	AlignBegin=115083|AlignEnd=116074
+
+# sent_id = vacances-sud_16
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Nous écoutions papa, intéressés.
+# text = [écouter-en-regardant] [INTERESSANT] [pt]
+1	[écouter-en-regardant]	_	_	_	_	_	_	_	AlignBegin=117139|AlignEnd=117970
+2	[INTERESSANT]	_	_	_	_	_	_	_	AlignBegin=117974|AlignEnd=118648
+3	[pt]	_	_	_	_	_	_	_	AlignBegin=118648|AlignEnd=119326
+
+# sent_id = vacances-sud_17
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = À mon tour, j’ai dit “Moi ce n’est ni le premier, ni le deuxième mais le troisième endroit que j’ai adoré. Le bord de mer mais pas la plage,
+# text = [pt] [NON] [itinéraire] [itinéraire] [TROISIEME] [pt] [ADORER2] [pt] [QUOI] [MER] [MAIS] [PLAGE]
+1	[pt]	_	_	_	_	_	_	_	AlignBegin=119630|AlignEnd=120600
+2	[NON]	_	_	_	_	_	_	_	AlignBegin=120604|AlignEnd=121200
+3	[itinéraire]	_	_	_	_	_	_	_	AlignBegin=121200|AlignEnd=122265|Md=[pt]
+4	[itinéraire]	_	_	_	_	_	_	_	AlignBegin=122274|AlignEnd=122826|Md=[pt]
+5	[TROISIEME]	_	_	_	_	_	_	_	AlignBegin=122826|AlignEnd=123287|Md=[pt]
+6	[pt]	_	_	_	_	_	_	_	AlignBegin=123296|AlignEnd=123904
+7	[ADORER2]	_	_	_	_	_	_	_	AlignBegin=123913|AlignEnd=124939
+8	[pt]	_	_	_	_	_	_	_	AlignBegin=124939|AlignEnd=125296
+9	[QUOI]	_	_	_	_	_	_	_	AlignBegin=125300|AlignEnd=125913
+10	[MER]	_	_	_	_	_	_	_	AlignBegin=125913|AlignEnd=127078|Md=[MER]
+11	[MAIS]	_	_	_	_	_	_	_	AlignBegin=127091|AlignEnd=127635|Md=[MER]
+12	[PLAGE]	_	_	_	_	_	_	_	AlignBegin=127657|AlignEnd=128383|Md=[MER]
+
+# sent_id = vacances-sud_18
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = les calanques avec les rochers tout autour.
+# text = [CALANQUE] [ROCHER] [rochers-ts]
+1	[CALANQUE]	_	_	_	_	_	_	_	AlignBegin=129013|AlignEnd=130809
+2	[ROCHER]	_	_	_	_	_	_	_	AlignBegin=130817|AlignEnd=131152
+3	[rochers-ts]	_	_	_	_	_	_	_	AlignBegin=131170|AlignEnd=132813
+
+# sent_id = vacances-sud_19
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = On pouvait voir la mer depuis les hauteurs.
+# text = [REGARDER]
+1	[REGARDER]	_	_	_	_	_	_	_	AlignBegin=132822|AlignEnd=134400|Md=[bord/falaise]
+
+# sent_id = vacances-sud_20
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Et dans l’eau, pas de sable mais des rochers, d’ailleurs quand on rentrait dans l’eau ça faisait mal aux pieds, puis une fois dans l’eau, on nageait et ça allait mieux.
+# text = [RENTRER] [EAU] [SABLE] [ROCHER] [rochers-ts] [RENTRER] [EAU] [rentrer-dans-eau] [marcher-dans-l'eau] [rochers-dans-les-pieds] [NAGER] [AGREABLE]
+1	[RENTRER]	_	_	_	_	_	_	_	AlignBegin=134500|AlignEnd=135265|Md=[bord/falaise]
+2	[EAU]	_	_	_	_	_	_	_	AlignBegin=135278|AlignEnd=136174|Md=[bord/falaise]
+3	[SABLE]	_	_	_	_	_	_	_	AlignBegin=136187|AlignEnd=137313|Md=[bord/falaise]
+4	[ROCHER]	_	_	_	_	_	_	_	AlignBegin=137317|AlignEnd=138026
+5	[rochers-ts]	_	_	_	_	_	_	_	AlignBegin=138035|AlignEnd=139774
+6	[RENTRER]	_	_	_	_	_	_	_	AlignBegin=140278|AlignEnd=140835|Md=[bord]
+7	[EAU]	_	_	_	_	_	_	_	AlignBegin=140835|AlignEnd=141157|Md=[bord]
+8	[rentrer-dans-eau]	_	_	_	_	_	_	_	AlignBegin=141174|AlignEnd=142065|Md=[bord]
+9	[marcher-dans-l'eau]	_	_	_	_	_	_	_	AlignBegin=142078|AlignEnd=143261|Md=[bord]
+10	[rochers-dans-les-pieds]	_	_	_	_	_	_	_	AlignBegin=143270|AlignEnd=144204
+11	[NAGER]	_	_	_	_	_	_	_	AlignBegin=144217|AlignEnd=147069
+12	[AGREABLE]	_	_	_	_	_	_	_	AlignBegin=147069|AlignEnd=148069
+
+# sent_id = vacances-sud_21
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Et là il n’y avait vraiment pas un chat ! C’était paisible.”
+# text = [VIDE] [CALME]
+1	[VIDE]	_	_	_	_	_	_	_	AlignBegin=148924|AlignEnd=150207
+2	[CALME]	_	_	_	_	_	_	_	AlignBegin=150228|AlignEnd=151862
+
+# sent_id = vacances-sud_22
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Nous étions là tous les 4, à écouter les souvenirs de chacun, tous différents.
+# text = [TOUS-LES-nb] [ECOUTER-EN-REGARDANT] [OUI] [DIFFERENT] 3X
+1	[TOUS-LES-nb]	_	_	_	_	_	_	_	AlignBegin=153228|AlignEnd=153862
+2	[ECOUTER-EN-REGARDANT]	_	_	_	_	_	_	_	AlignBegin=153869|AlignEnd=154648
+3	[OUI]	_	_	_	_	_	_	_	AlignBegin=154662|AlignEnd=155055
+4	[DIFFERENT] 3X	_	_	_	_	_	_	_	AlignBegin=155062|AlignEnd=156979
+
+# sent_id = vacances-sud_23
+# video_url = https://grew.fr/download/recit-agnieska.mp4
+# traduction_fr = Maman a terminé en disant : “Avec ces endroits différents, les découvertes étaient variées et riches. C’était très intéressant, oui, c’était vraiment des bonnes vacances.”
+# text = [OUI] [DIFFERENT] 2X [DONNER] [DECOUVERTE] [DIFFERENT] [RICHE] [INTERESSANT] [BIEN] [PARFAIT] [BIEN] [VACANCES] [OUI]
+1	[OUI]	_	_	_	_	_	_	_	AlignBegin=158028|AlignEnd=159214
+2	[DIFFERENT] 2X	_	_	_	_	_	_	_	AlignBegin=159228|AlignEnd=160186
+3	[DONNER]	_	_	_	_	_	_	_	AlignBegin=160207|AlignEnd=160862
+4	[DECOUVERTE]	_	_	_	_	_	_	_	AlignBegin=160897|AlignEnd=161621
+5	[DIFFERENT]	_	_	_	_	_	_	_	AlignBegin=161641|AlignEnd=162690
+6	[RICHE]	_	_	_	_	_	_	_	AlignBegin=162724|AlignEnd=164179
+7	[INTERESSANT]	_	_	_	_	_	_	_	AlignBegin=164207|AlignEnd=164966
+8	[BIEN]	_	_	_	_	_	_	_	AlignBegin=164986|AlignEnd=165579
+9	[PARFAIT]	_	_	_	_	_	_	_	AlignBegin=165593|AlignEnd=166572
+10	[BIEN]	_	_	_	_	_	_	_	AlignBegin=166572|AlignEnd=167034
+11	[VACANCES]	_	_	_	_	_	_	_	AlignBegin=167069|AlignEnd=167572
+12	[OUI]	_	_	_	_	_	_	_	AlignBegin=167600|AlignEnd=168186
+
