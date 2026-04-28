@@ -6,7 +6,7 @@
 # text_en = There was a man, and now, this man a woman, and he leaves with a girl and a monkey, they said.
 1	tak	tak	N.M	_	_	_	_	_	AlignBegin=0|AlignEnd=283|GE=man|Gloss=man|nWord=1|RX=[N].[M]
 2-4	iːfejt	_	_	_	_	_	_	_	_
-2	iː-	_	PNG	_	_	_	_	_	AlignBegin=283|AlignEnd=377|GE=[3SG].[M]|Gloss=3SG.M-|nWord=2|RX=[PNG]
+2	iː-	_	GPG	_	_	_	_	_	AlignBegin=283|AlignEnd=377|GE=[3SG].[M]|Gloss=3SG.M-|nWord=2|RX=[PNG]
 3	fi	fi	V1.IRG.INTR	_	_	_	_	_	AlignBegin=377|AlignEnd=471|GE=be_there|Gloss=be_there\AOR|nWord=2|RX=[V1].[IRG].[INTR]|TypeToken=stem
 4	=it	_	PUNCT	_	_	_	_	_	AlignBegin=471|AlignEnd=566|GE=[COORD]|Gloss==COORD|nWord=2|RX=[CONJ]
 5	/	_	PUNCT	_	_	_	_	_	AlignBegin=566|AlignEnd=850|GE=[/]|Gloss=/|nWord=3|RX=[PUNCT]
