@@ -8,7 +8,7 @@
 4	[euh]	_	_	_	_	_	_	_	AlignBegin=4343|AlignEnd=4992
 5	[PARTIR]	_	_	_	_	_	_	_	AlignBegin=5011|AlignEnd=5706
 6	[OÙ]	_	_	_	_	_	_	_	AlignBegin=5745|AlignEnd=6867
-7	[FRANCE]	_	_	_	_	_	_	_	AlignBegin=6884|AlignEnd=7277
+7	[FRANCE]	_	_	_	_	10	reparandum	_	AlignBegin=6884|AlignEnd=7277
 8	[carte-france]	_	_	_	_	11	:name	_	AlignBegin=7296|AlignEnd=8476|Md=[prfM-carte]
 9	[SUD]	_	_	_	_	_	_	_	AlignBegin=8490|AlignEnd=9205|Md=[prfM-carte]
 10	[région-sud]	_	_	_	_	_	_	_	AlignBegin=9235|AlignEnd=10548|Md=[prfM-carte]
