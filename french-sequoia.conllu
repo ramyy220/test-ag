@@ -1,6 +1,6 @@
 # sent_id = annodis.er_00002
 # text = Cette exposition nous apprend que dès le XIIe siècle, à Dammarie-sur-Saulx, entre_ autres sites, une industrie métallurgique existait.
-1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	det	_	_
+1	Cette	ce	DET	_	Gender=Fem|Number=Sing|PronType=Dem	2	dep	_	_
 2	exposition	exposition	NOUN	_	Number=Sing	4	nsubj	_	Gender[lex]=Fem
 3	nous	nous	PRON	_	Case=Dat|Number=Plur|Person=1|PronType=Prs	4	iobj	_	Emph=No
 4	apprend	apprendre	V	_	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	_
