@@ -4,8 +4,8 @@
 1	what	what	AUX	_	PronType=Int,Rel	0	root	_	_
 2	are	be	AUX	_	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	_
 3	the	the	PRON	_	PronType=Art	5	det	_	_
-4	coach	coach	NOUN	_	Number=Sing	5	compound	_	_
-5	flights	flight	NOUN	_	Number=Plur	1	nsubj	_	_
+4	coach	coach	NOUN	_	Number=Sing	5	noun	_	_
+5	flights	flight	NOUN	_	Number=Plur	1	subj 	_	_
 6	between	between	ADP	_	_	7	case	_	_
 7	dallas	Dallas	PROPN	_	Number=Sing	5	nmod	_	_
 8	and	and	CCONJ	_	_	9	cc	_	_
