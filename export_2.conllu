@@ -10,13 +10,13 @@
 7	dallas	Dallas	PROPN	_	Number=Sing	5	nmod	_	_
 8	and	and	CCONJ	_	_	9	cc	_	_
 9	baltimore	Baltimore	PROPN	_	Number=Sing	7	conj	_	_
-10	leaving	leave	VERB	_	Tense=Pres|VerbForm=Part	5	acl:relcl	_	_
-11	august	August	NOUN	_	Number=Sing	10	obl:tmod	_	_
+10	leaving	leave	VERB	_	Tense=Pres|VerbForm=Part	12	reparandum	_	_
+11	august	August	NOUN	_	Number=Sing	1	parataxis	_	_
 12	tenth	ten	ADJ	_	Degree=Pos|NumType=Ord	11	amod	_	_
 13	and	and	CCONJ	_	_	14	cc	_	_
 14	returning	return	VERB	_	Tense=Pres|VerbForm=Part	10	conj	_	_
 15	august	August	NOUN	_	Number=Sing	14	obl:tmod	_	_
-16	twelve	twelve	NUM	_	NumType=Card	15	nummod	_	_
+16	twelve	twelve	NUM	_	NumType=Dist	15	nummod	_	_
 
 # sent_id = 0002.test
 # parallel_id = atis/test2
