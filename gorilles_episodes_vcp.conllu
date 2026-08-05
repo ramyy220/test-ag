@@ -11,6 +11,6 @@
 4	bál	bál	N	_	_	7	cop	_	AlignBegin=5175|AlignEnd=5466|GE=monkey|Gloss=monkey|nWord=3|RX=[N]
 5	-áná		MRPH	_	_	_	_	_	AlignBegin=5466|AlignEnd=5756|GE=[ASS].[PL]|Gloss=-ASS.PL|nWord=3|RX=[MRPH]
 6-7	nácɩ́nà	_	_	_	_	_	_	_	_
-6	ná-		MRPH	_	_	_	_	_	AlignBegin=5756|AlignEnd=6193|GE=[FOC].[PFV]|Gloss=FOC.PFV-|nWord=4|RX=[MRPH]
+6	ná-		MRPH	_	_	2	parataxis	_	AlignBegin=5756|AlignEnd=6193|GE=[FOC].[PFV]|Gloss=FOC.PFV-|nWord=4|RX=[MRPH]
 7	cɩ́nà	cɩ́nà	V	_	_	_	_	_	AlignBegin=6193|AlignEnd=6630|GE=sit|Gloss=sit|nWord=4|RX=[V]
 
