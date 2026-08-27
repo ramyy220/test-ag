@@ -2,7 +2,7 @@
 # text_ortho = dà kaːwoːwàɗ ɗan doːkìː, yac cèː " Dikkò kyaː san suːnan ɗan doːkìn ga nau ? "
 # text = dà kaːwoːwàɗ ɗan doːkìː, yac cèː " Dikkò kyaː san suːnan ɗan doːkìn ga nau ? "
 # text_en = When they brought him the young horse, he said "Dikko, do you know the name of my little horse?"
-1	dà	dà	SCONJ	_	_	6	mod	_	Gloss=that
+1	dà	dà	ADJ	_	_	6	mod	_	Gloss=that
 2	kaːwoːwàɗ	kaːy-	V	_	Definite=Cons|Gender=Fem|VerbForm=Vnoun	1	comp:obj	_	Gloss=bring.Dir.Vnoun.Fem.Cons
 3	ɗan	ɗan	ADJ	_	Definite=Cons|Gender=Masc	4	mod	_	Gloss=small.Masc.Cons
 4	doːkìː	doːkìː	NOUN	_	Gender=Masc	2	comp:obj	_	Gloss=horse.Mac|SpaceAfter=No
