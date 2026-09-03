@@ -5,7 +5,7 @@
 1	عبدولو	عبدولو	NOUN	N_SING	Number=Sing	3	nsubj	_	_
 2	صبا	صب	NOUN	N_SING	Number=Sing	3	nmod	_	_
 3	اشی	ش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	SCONJ	DELM	_	3	punct	_	_
+4	.	.	INTJ	DELM	_	3	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_2
 # text = مِن دارُن لباس اَپوشُن.
@@ -15,7 +15,7 @@
 2	دارُن	دار	AUX	V_AUX	Number=Sing|Person=1|Tense=Fut	4	aux	_	_
 3	لباس	لباس	NOUN	N_Sing	Number=Sing	4	obj	_	_
 4	اَپوشُن	اپوش	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
-5	.	.	SYM	DELM	_	4	punct	_	_
+5	.	.	DET	DELM	_	4	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_3
 # text = اَجی لیوان اُوِ اَ مِن دِ.
@@ -26,7 +26,7 @@
 3	اُوِ	اُوِ	NOUN	N_Sing	Number=Sing	2	flat	_	_
 4	اَ	اَ	ADP	P	_	5	case	_	_
 5	مِن	مِن	PRON	PRO	Number=Sing|PronType=Dem	6	nmod	_	_
-6	دِ	د	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
+6	دِ	د	PROPN	V_IMP	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
 7	.	.	PUNCT	DELM	_	6	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_4
@@ -48,7 +48,7 @@
 2	الُن	الُن	ADV	ADV_TIME	Case=Tem	7	advcl	_	_
 3	دِ	دِ	NUM	NUM	NumType=Card	4	nummod	_	_
 4	بار	بار	NOUN	N_Sing	Number=Sing	7	obl	_	_
-5	بِ	بِ	ADP	P	_	6	case	_	_
+5	بِ	بِ	PUNCT	P	_	6	case	_	_
 6	مِشَد	مِشَد	NOUN	N_Sing	Number=Sing	7	obl	_	_
 7	بَشتُن	ش	VERB	V_PP	Number=Sing|Person=1|VerbForm=Part	0	root	_	SpaceAfter=No
 8	.	.	PUNCT	DELM	_	7	punct	_	_
