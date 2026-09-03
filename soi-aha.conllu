@@ -18,7 +18,7 @@
 4	اَ	اَ	ADP	P	_	5	case	_	_
 5	مِن	مِن	PRON	PRO	Number=Sing|PronType=Dem	6	nmod	_	_
 6	دِ	د	PROPN	V_IMP	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	DELM	_	6	punct	_	_
+7	.	.	dileme	DELM	_	6	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_4
 # text = بِرا م بِ مدرسه ناشی.
