@@ -1,12 +1,3 @@
-# sent_id = GRAMMAR_RAJI_1
-# text = عبدولو صبا اشی.
-# text_fa = عبدالله فردا صبح می‌رود.
-# text_en = Abdollah is living tomorrow.
-1	عبدولو	عبدولو	NOUN	N_SING	Number=Sing	3	nsubj	_	_
-2	صبا	صب	NOUN	N_SING	Number=Sing	3	nmod	_	_
-3	اشی	ش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	dileme	DELM	_	3	punct	_	_
-
 # sent_id = GRAMMAR_RAJI_2
 # text = مِن دارُن لباس اَپوشُن.
 # text_fa = من دارم لباسم را می‌پوشم.
