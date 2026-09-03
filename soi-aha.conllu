@@ -5,7 +5,7 @@
 1	عبدولو	عبدولو	NOUN	N_SING	Number=Sing	3	nsubj	_	_
 2	صبا	صب	NOUN	N_SING	Number=Sing	3	nmod	_	_
 3	اشی	ش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	INTJ	DELM	_	3	punct	_	_
+4	.	.	PUNCT	DELM	_	3	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_2
 # text = مِن دارُن لباس اَپوشُن.
