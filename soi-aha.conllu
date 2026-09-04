@@ -1,12 +1,3 @@
-# sent_id = GRAMMAR_RAJI_1
-# text = عبدولو صبا اشی.
-# text_fa = عبدالله فردا صبح می‌رود.
-# text_en = Abdollah is living tomorrow.
-1	عبدولو	عبدولو	NOUN	N_SING	Number=Sing	3	nsubj	_	_
-2	صبا	صب	NOUN	N_SING	Number=Sing	3	nmod	_	_
-3	اشی	ش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
-4	.	.	dileme	DELM	_	3	punct	_	_
-
 # sent_id = GRAMMAR_RAJI_2
 # text = مِن دارُن لباس اَپوشُن.
 # text_fa = من دارم لباسم را می‌پوشم.
@@ -15,7 +6,7 @@
 2	دارُن	دار	AUX	V_AUX	Number=Sing|Person=1|Tense=Fut	4	aux	_	_
 3	لباس	لباس	NOUN	N_Sing	Number=Sing	4	obj	_	_
 4	اَپوشُن	اپوش	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
-5	.	.	PUNCT	DELM	_	4	punct	_	_
+5	.	.	X	DELM	_	4	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_3
 # text = اَجی لیوان اُوِ اَ مِن دِ.
@@ -27,7 +18,7 @@
 4	اَ	اَ	ADP	P	_	5	case	_	_
 5	مِن	مِن	PRON	PRO	Number=Sing|PronType=Dem	6	nmod	_	_
 6	دِ	د	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	DELM	_	6	punct	_	_
+7	.	.	X	DELM	_	6	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_4
 # text = بِرا م بِ مدرسه ناشی.
@@ -38,7 +29,7 @@
 3	بِ	بِ	ADP	P	_	5	case	_	_
 4	مدرسه	مدرسه	NOUN	N_Sing	Number=Sing	5	obl	_	_
 5	ناشی	ش	VERB	V_PRS	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
-6	.	.	PUNCT	DELM	_	5	punct	_	_
+6	.	.	X	DELM	_	5	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_5
 # text = تا الُن دِ بار بِ مِشَد بَشتُن.
@@ -51,7 +42,7 @@
 5	بِ	بِ	ADP	P	_	6	case	_	_
 6	مِشَد	مِشَد	NOUN	N_Sing	Number=Sing	7	obl	_	_
 7	بَشتُن	ش	VERB	V_PP	Number=Sing|Person=1|VerbForm=Part	0	root	_	SpaceAfter=No
-8	.	.	PUNCT	DELM	_	7	punct	_	_
+8	.	.	X	DELM	_	7	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_6
 # text = هِزِ ئی کیلو برنج ِم هاگِت.
@@ -63,7 +54,7 @@
 4	برنج	برنج	NOUN	N_Sing	Number=Sing	6	obj	_	_
 5	ِم	مِن	PRON	_	Number=Sing|Person=1|PronType=Prs	6	nsubj	_	_
 6	هاگِت	گِت	VERB	V_PA	Number=Sing|Person=1|Tense=Past	0	root	_	SpaceAfter=No
-7	.	.	PUNCT	DELM	_	6	punct	_	_
+7	.	.	X	DELM	_	6	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_7
 # text = واجَن علی رویی دِ سات کار اَکَرَ.
@@ -76,7 +67,7 @@
 5	سات	سات	NOUN	N_Sing	Number=Sing	3	nmod:poss	_	_
 6	کار	کار	NOUN	N_Sing	Number=Sing	7	compound:lvc	_	_
 7	اَکَرَ	کَر	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	1	ccomp	_	SpaceAfter=No
-8	.	.	PUNCT	DELM	_	7	punct	_	_
+8	.	.	X	DELM	_	7	punct	_	_
 
 # sent_id = GRAMMAR_RAJI_9
 # text = اِ دِ سال پیش تا الُن اُن ِم نَدییَ.
@@ -91,5 +82,5 @@
 7	اُن	اُن	PRON	PRO	Number=Sing|Person=3|PronType=Prs	9	obj	_	_
 8	ِم	مِن	PRON	PRO	Number=Sing|Person=1|PronType=Prs	9	nsubj	_	_
 9	نَدییَ	نُن	VERB	V_PRS	Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
-10	.	.	PUNCT	DELM	_	9	punct	_	_
+10	.	.	X	DELM	_	9	punct	_	_
 
