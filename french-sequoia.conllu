@@ -17,5 +17,5 @@
 15	aujourd'hui	aujourd'hui	ADV	_	_	14	advmod	_	_
 16	de	de	ADP	_	_	17	case	_	_
 17	Cora	Cora	PROPN	_	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
-18	.	.	PUNCT	_	_	4	punct	_	_
+18	.	.	ADJ	_	_	4	punct	_	_
 
