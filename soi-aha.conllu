@@ -101,3 +101,43 @@
 9	نَدییَ	نُن	VERB	V_PRS	Number=Sing|Person=1|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	DELM	_	9	punct	_	_
 
+# sent_id = GRAMMAR_RAJI_1_split1
+# text = عبدولو
+# text_fa = عبدالله فردا صبح می‌رود.
+# text_en = Abdollah is living tomorrow.
+# rtl = yes
+1	عبدولو	abdoulou	AUX	N_SING	Number=Sing	0	nsubj	_	_
+
+# sent_id = GRAMMAR_RAJI_1_split2_GRAMMAR_RAJI_2
+# text = صبا اشی . مِن دارُن لباس اَپوشُن.
+# text_fa = عبدالله فردا صبح می‌رود. من دارم لباسم را می‌پوشم.
+# text_en = Abdollah is living tomorrow. I am getting dressed.
+# rtl = yes
+1	صبا	صب	NOUN	N_SING	Number=Sing	2	nmod	_	_
+2	اشی	ش	VERB	V_PRS	Number=Sing|Person=3|Tense=Pres	0	root	_	SpaceAfter=No
+3	.	.	PUNCT	DELM	_	2	punct	_	_
+4	مِن	مِن	X	PRO	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
+5	دارُن	دار	AUX	V_AUX	Number=Sing|Person=1|Tense=Fut	7	aux	_	_
+6	لباس	لباس	NOUN	N_Sing	Number=Sing	7	obj	_	_
+7	اَپوشُن	اپوش	VERB	V_PRS	Number=Sing|Person=1|Tense=Pres	0	root	_	SpaceAfter=No
+8	.	.	PUNCT	DELM	_	7	punct	_	_
+
+# sent_id = GRAMMAR_RAJI_3_4
+# text = اَجی لیوان اُوِ اَ مِن دِ. بِرا م بِ مدرسه ناشی.
+# text_fa = یک لیوان آب به من بده. برادرم به مدرسه نمی‌رود.
+# text_en = Give me a glass of water. My brother does not go to school.
+# rtl = yes
+1	اَجی	اَجی	NUM	NUM	NumType=Card	2	nummod	_	_
+2	لیوان	لیوان	NOUN	N_Sing	Number=Sing	6	obj	_	_
+3	اُوِ	اُوِ	NOUN	N_Sing	Number=Sing	2	flat	_	_
+4	اَ	اَ	ADP	P	_	5	case	_	_
+5	مِن	مِن	PRON	PRO	Number=Sing|PronType=Dem	6	nmod	_	_
+6	دِ	د	VERB	V_IMP	Mood=Imp|Number=Sing|Person=2	0	root	_	SpaceAfter=No
+7	.	.	PUNCT	DELM	_	6	punct	_	_
+8	بِرا	بِرا	NOUN	N_Sing	Number=Sing	12	nsubj	_	_
+9	م	م	PRON	PRO	Number=Sing|Person=1|PronType=Prs	8	nmod:poss	_	_
+10	بِ	بِ	ADP	P	_	12	case	_	_
+11	مدرسه	مدرسه	NOUN	N_Sing	Number=Sing	12	obl	_	_
+12	ناشی	ش	VERB	V_PRS	Number=Sing|Person=3|Polarity=Neg|Tense=Pres	0	root	_	SpaceAfter=No
+13	.	.	PUNCT	DELM	_	12	punct	_	_
+
