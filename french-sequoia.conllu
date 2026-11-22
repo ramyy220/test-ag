@@ -19,3 +19,10 @@
 17	Cora	Cora	PROPN	_	Gender=Fem|Number=Sing	14	nmod	_	SpaceAfter=No
 18	.	.	ADJ	_	_	4	punct	_	_
 
+# sent_id = annodis.er_00015
+# text = Pourquoi ce thème ?
+1	Pourquoi	pourquoi	ADV	_	PronType=Int	3	advmod	_	_
+2	ce	ce	DET	_	Gender=Masc|Number=Sing|PronType=Dem	3	det	_	_
+3	thème	thème	NOUN	_	Number=Sing	0	root	_	Gender[lex]=Masc
+4	?	?	PUNCT	_	_	3	punct	_	_
+
