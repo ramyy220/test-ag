@@ -1,0 +1,10 @@
+# sent_id = BC_HAU_Gouffé_1_01_Zugal_001-002_split1
+# text = zuːgàl .
+# speaker_id = *
+# sound_url = https://corporan.huma-num.fr/Archives/media/Gouffe/WAV/Gouffe_1_01_Zugal.WAV
+# sent_timecode = 1000, 3000
+# text_en = Zugal.
+# text_ortho = Zugal.
+1	zuːgàl	zuːgàl	NOUN	_	Definite=Ind	0	root	_	Gloss=love_charm
+2	.	.	PUNCT	_	_	1	punct	_	Gloss=PUNCT
+
